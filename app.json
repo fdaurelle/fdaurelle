@@ -4,6 +4,7 @@
   },
   "env": {
     "CONTACTS_ACCOUNT_ID": {
+      "description": "ID of the account used",
       "required": true,
       "value": "0010Y00000LARsRQAX"
     },
