@@ -9,7 +9,7 @@
     },
     "PAPERTRAIL_API_TOKEN": {
       "required": true,
-      "value: "UEOadeIoXZCKF26l3aZ4"
+      "value": "UEOadeIoXZCKF26l3aZ4"
     }
   },
   "formation": {
