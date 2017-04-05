@@ -136,7 +136,8 @@ a {
 }
 
 .welcome .button-clear {
-    color: #eeeeee;
+    //color: #eeeeee;
+    color: #000000;
 }
 
 .menu-left h1 {
