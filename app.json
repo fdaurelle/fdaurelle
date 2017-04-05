@@ -5,9 +5,11 @@
   "env": {
     "CONTACTS_ACCOUNT_ID": {
       "required": true
+      "value":"0010Y00000LARsRQAX"
     },
     "PAPERTRAIL_API_TOKEN": {
       "required": true
+      "value":"UEOadeIoXZCKF26l3aZ4"
     }
   },
   "formation": {
